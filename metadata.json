@@ -1,0 +1,6 @@
+{
+  "name": "Smart Trainify AI Instructor",
+  "description": "Zero-latency, empathetic, hyper-personalized fitness companion featuring live pose form supervision, meal nutrition analysis, biometric micro-workout adaptation, and universal accessibility.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
